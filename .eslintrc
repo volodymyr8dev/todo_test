@@ -1,0 +1,6 @@
+{
+  "extends": ["@wemake-services/typescript/recommended"],
+  "rules": {
+    "@typescript-eslint/explicit-function-return-type": "off"
+  }
+}
